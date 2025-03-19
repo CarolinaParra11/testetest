@@ -1,0 +1,118 @@
+http://b25.southcentralus.cloudapp.azure.com/jogo/serial
+AUTH_USER=svc_acc_api
+AUTH_PASS=9dk3j5@%WEI
+GET
+Content-Type: application/json
+serial: 417135677
+[
+    {
+        "unid_cod": "CES736"
+    }
+]
+http://b25.southcentralus.cloudapp.azure.com/jogo/jogo1_load
+aluno_login: agrimarioc1
+unid_cod: EC01A
+turma_cod: 1BT20
+[
+    [
+        {
+            "fase_avatar": 1,
+            "fase_moeda": 0,
+            "fase_prof": 0,
+            "fase_cofre1": 0,
+            "fase_cofre2": 0,
+            "fase_cofre3": 0,
+            "fase_azul": 0,
+            "fase_amarelo": 0,
+            "fase_marrom": 0,
+            "fase_sofa": 0,
+            "fase_fogao": 0,
+            "fase_remed": 0,
+            "fase_fruta": 0,
+            "fase_tv": 0,
+            "fase_comp": 0,
+            "fase_gelad": 0,
+            "fase_conq": "0",
+            "fase_cod": 0
+        }
+    ],
+    [
+        {
+            "aluno_login": "valdetes41",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "cristianos3",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "cleomarp1",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "claras5",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "cíceros109",
+            "fase_moeda": 0
+        },
+        {
+      
+http://b25.southcentralus.cloudapp.azure.com/jogo/jogo2_load
+aluno_login: agrimarioc19
+unid_cod: EC01A
+turma_cod: 2BM20
+[
+    [
+        {
+            "fase_avatar": 0,
+            "fase_moeda": 0,
+            "fase_prof": 0,
+            "fase_cofre1": 0,
+            "fase_cofre2": 0,
+            "fase_cofre3": 0,
+            "fase_cofre4": 0,
+            "fase_azul": 0,
+            "fase_amarelo": 0,
+            "fase_marrom": 0,
+            "fase_plano_bucal": 0,
+            "fase_plano_combo": 0,
+            "fase_curso_ingles": 0,
+            "fase_conq": "0"
+        }
+    ],
+    [
+        {
+            "aluno_login": "valdetes48",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "cristianos35",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "cleomarp17",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "claras55",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "cíceros20",
+            "fase_moeda": 0
+        },
+        {
+            "aluno_login": "carlosc13",
+            "fase_moeda": 0
+        },
+        {
+    
+
+
+
+
+
+
+

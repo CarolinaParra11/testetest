@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DontDestroy
+  - FX_smokepuff
+  - FxTemporaire
+  - FX_fireworks
+  - Coin
+  - AvatarSprite
+  - Touch2FX
+  - TouchFX
+  - Bolodim
+  - ResultsPanel
+  - InfoPanel
+  - AdultSprite
+  - JobsSprite
+  - Bucks
+  - FX_smokepuff_big
+  - FX_bigFireworks
+  - message
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ImageBack
+    uniqueID: 3772580055
+    locked: 0
+  - name: Sprite
+    uniqueID: 2813040815
+    locked: 0
+  - name: ImageFront
+    uniqueID: 814344915
+    locked: 0
+  - name: Sprites UI
+    uniqueID: 1093734685
+    locked: 0
+  - name: Rivers
+    uniqueID: 2730705489
+    locked: 0
+  - name: Transition
+    uniqueID: 2884955987
+    locked: 0

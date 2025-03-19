@@ -1,0 +1,78 @@
+1	Autocontrole
+2	Autogestão
+3	Economia social
+4	Concorrência
+5	Concorrente
+6	Consumo
+7	Consumo consciente
+8	Demanda
+9	Demanda e Oferta
+10	Economia Comportamental
+12	Economia Sustentável
+13	Empreendedorismo
+14	Equivalência financeira
+15	Finanças (aplicadas no dia dia)
+16	Inflação
+17	Matemática e finanças (subtração)
+18	O lazer e o Essencial
+19	Planejamento Estratégico
+20	Planejamento Financeiro
+21	Planejamento financeiro (valor do trabalho)
+22	Planejamento financeiro familiar
+23	Poupar
+24	Prioridade
+25	Prioridade Econômica do dia dia
+26	Raciocinio lógico
+27	Raciocinio lógico e a Matemática
+28	Recompensa a longo prazo
+30	Reserva financeira
+31	Riscos
+32	Tomada de decisão baseado em lógica
+33	Tomada de decisão e consequência
+34	Variação de custo/preço
+35	Variação de preços e compra
+36	Valor dos objetos
+37	Autogestão/economia social
+38	Investimento em educação
+39	Planejamento por Prioridade
+40	Prioridade Econômica do dia dia
+41	Consumo por prioridade
+42	Macroeconomia
+43	Análise baseada em mais de uma variável
+44	Autogestão orçamentos
+45	Gestão Financeira
+46	Gerenciando custos
+47	Gestão Financeira e planejamento
+48	Autocontrole e consumo consciente
+49	Autonomia decisão financeira
+50	Economia social/Gestão
+51	Prioridade Econômica do dia dia
+52	Reserva de emergência
+53	Tomada de decisão
+54	Autonomia e gestão
+55	Gestão de orçamento
+56	Estudo e Retorno a longo prazo
+57	Produto Agregado
+58	Vendas
+59	Associar funções atribuições
+60	Planejamento a longo prazo
+61	Variação de custo/preço
+62	Negociação
+63	Gerenciando riscos financeiros
+64	Gestão de riscos com planejamento
+65	Raciocínio lógico e economia
+66	Matemática Financeira
+67	Matemática Financeira com raciocínio lógico
+68	Gerenciamento de ganhos/riscos/controle de custos
+71	Empréstimo/investimentos/seguro
+72	Função do dinheiro
+73	Taxa/custo
+74	Matemática e Matemática financeira do dia dia
+75	Economia e objetivo completado
+76	Planejamento & Recompensas
+
+De 11	 para 3
+De 69	 para 64
+De 70	 para 27
+De 51/40 para 25
+De 61	 para 34

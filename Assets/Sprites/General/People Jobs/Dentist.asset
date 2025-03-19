@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Dentist
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Body
+    m_Hash: 2073732236
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -8989845863201882215, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: -682448349922840673, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: 6939357911716352884, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: -3559815515304694876, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -523125350560302299, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: 953509461623514350, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -3095895612422960034, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: 3556398423439314585, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: Hair
+    m_Hash: 1019596327
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: 0}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: -6268875631218545116, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: 0}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: -3781565440073263880, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: L_Arm
+    m_Hash: -1759658809
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -7072336180293358385, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: -5389569357163330334, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -961633966819822288, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: -8227261387594200524, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: L_Hand
+    m_Hash: -720436989
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -4874317366090301891, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: -4821120485158029804, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -9124000313805179483, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: -4793301405277303887, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: L_Leg
+    m_Hash: 2056471068
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -358123328866781877, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: 1464124575006224190, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -3511237909041449777, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: 6326040420658704553, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: L_Shoe
+    m_Hash: 869985221
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -2891271878244292592, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: -840073695279752400, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: 8829279356380322295, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: 1348090325120785693, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: R_Arm
+    m_Hash: 1221432612
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: -7532992880173411348, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: -7088110943704286043, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: 7437123439103893041, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: -7782909729350035598, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: R_Hand
+    m_Hash: -321690904
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: 3245735961127935450, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: 5832470631629035594, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -560250077763385883, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: 1314765399746391031, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: R_Leg
+    m_Hash: -1522308097
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: 8032475798812913790, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: 6335219955155552774, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -3950453012457489412, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: -672571505241590221, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}
+  - m_Name: R_Shoe
+    m_Hash: 168200238
+    m_CategoryList:
+    - m_Name: kid01
+      m_Hash: -1347920643
+      m_Sprite: {fileID: 1558158201242017470, guid: 69db1db9e2c3f0b488dbb72171938495,
+        type: 3}
+    - m_Name: kid02
+      m_Hash: 916524359
+      m_Sprite: {fileID: 6043944361781453285, guid: d2a937fb25e599649b908a6693460e5a,
+        type: 3}
+    - m_Name: kid03
+      m_Hash: 1101413841
+      m_Sprite: {fileID: -5624503466581737423, guid: da1aea85d6ca1d84f94e7b8bf2e02e35,
+        type: 3}
+    - m_Name: kid04
+      m_Hash: -540891022
+      m_Sprite: {fileID: 3167926275872118351, guid: abcb0221fb6b3ed438c5301dfe32711b,
+        type: 3}

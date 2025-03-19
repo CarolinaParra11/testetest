@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84854c3b969bbd3418d2071683668167, type: 3}
+  m_Name: SendToFriend
+  m_EditorClassIdentifier: 
+  cost: 30
+  bonus: 0
+  text: "Ir at\xE9 a casa do seu amigo e levar os alimentos "
+  image: {fileID: 7271742818931788949, guid: 22d9d45f179d80e4a90f4788c1f256b0, type: 3}
+  concepts: {fileID: 0}
+  chosenAnimation: {fileID: 0}

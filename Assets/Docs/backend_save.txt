@@ -1,0 +1,79 @@
+Metodo: POST
+URI: http://b25.southcentralus.cloudapp.azure.com/jogo/jogo1_save
+Header: Content-Type:
+application/json
+Basic Auth: Usuário e senha á fornecidos.
+Body:
+{
+    "aluno_login":"agrimarioc1",
+    "unid_cod":"EC01A",
+    "turma_cod":"1BT20",
+    "fase_cod":1,
+    "fase_avatar":2,
+    "fase_moeda":3,
+    "fase_prof":4,
+    "fase_cofre1":10,
+    "fase_cofre2":20,
+    "fase_cofre3":30,
+    "fase_azul":1,
+    "fase_amarelo":1,
+    "fase_marrom":1,
+    "fase_sofa":1,
+    "fase_fogao":1,
+    "fase_remed":1,
+    "fase_fruta":1,
+    "fase_tv":1,
+    "fase_comp":1,
+    "fase_gelad":1,
+    "fase_mesa":1,
+    "fase_conq":"conquista1,conquista2,conquista3"
+}
+
+Resposta em caso de sucesso:
+
+{
+    "fieldCount": 0,
+    "affectedRows": 1,
+    "insertId": 0,
+    "info": "",
+    "serverStatus": 2,
+    "warningStatus": 0
+}
+
+Metodo: POST
+URI: http://b25.southcentralus.cloudapp.azure.com/jogo/jogo2_save
+Header: Content-Type:
+application/json
+Basic Auth: Usuário e senha á fornecidos.
+Body:
+{
+    "aluno_login":"agrimarioc19",
+    "unid_cod":"EC01A",
+    "turma_cod":"2BM20",
+    "fase_cod":1,
+    "fase_avatar":2,
+    "fase_moeda":3,
+    "fase_prof":4,
+    "fase_cofre1":10,
+    "fase_cofre2":20,
+    "fase_cofre3":30,
+    "fase_cofre4":40,
+    "fase_azul":1,
+    "fase_amarelo":1,
+    "fase_marrom":1,
+    "fase_plano_combo":1,
+    "fase_curso_ingles":1,
+    "fase_plano_bucal":1,
+    "fase_conq":"conquista1,conquista2,conquista3"
+}
+
+Resposta em caso de sucesso:
+
+{
+    "fieldCount": 0,
+    "affectedRows": 1,
+    "insertId": 0,
+    "info": "",
+    "serverStatus": 2,
+    "warningStatus": 0
+}

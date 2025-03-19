@@ -1,0 +1,524 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Adults Library
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Body
+    m_Hash: 2073732236
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: -1718368925892873503, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -4992323283947740828, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: 7138708374488032306, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 2687881439661685626, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: -1459546240835705099, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 2740730117563341725, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -3591976411282894851, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: -4336961926291648329, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: -5588524229221805090, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 3207044822599771667, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: Face
+    m_Hash: -1524181927
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 6388096494417006731, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -3868348228487483181, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -7769381413663022238, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: -8686286102176679079, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 4705581019309299556, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 1328250249206204169, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -1697045766471644325, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 6996436776367360339, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 749964764274416321, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 37737813947602237, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: Hair
+    m_Hash: 1019596327
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 0}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: 0}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: 0}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 0}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 0}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: -4342247838339206179, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: 1101941366432370317, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: -3312452241177678551, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 0}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 0}
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 4467713113306513504, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -410524041248532312, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: 8409365950738833048, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 3501873864708976783, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 4856467734177767006, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 1668383440524307002, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -2704412763559565884, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 5742421629310492149, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: -938886801280099936, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 6589018675490829590, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: L_Arm
+    m_Hash: -1759658809
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: -1575752620089872303, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: 7882896908485962435, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: 9049427059696129662, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: -3979889029534119465, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: -4031323031677349992, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: -6828844770948813388, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: 6830944593198973251, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: -6758439535339632662, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: -1894408227092476330, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 4259591402035385041, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: L_Hand
+    m_Hash: -720436989
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: -1117102656005601079, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: 787527759979999703, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -6815039395443326787, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 6965952081557645616, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 2320967634389892511, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 4964574833396245140, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -1761867939271434359, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 7340980923104564867, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 2009978216186105964, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: -8652752617839670818, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: L_Leg
+    m_Hash: 2056471068
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: -5152525464763146797, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -7286094557886986000, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -884419247694433360, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 8253689033043471292, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: -3099011760921063072, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: -2294344775052447734, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -2348266891748914177, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 7807516056388779195, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 4844402163597372272, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 1362907755933737739, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: L_Shoe
+    m_Hash: 869985221
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 3671842218503304195, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -6969224177567571045, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -6190757181053358008, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 5997062848805942910, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 7046071908516273038, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 2825089403584273858, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -2653732944228019588, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 6564891842930577587, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 3346034315530405941, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: -4949229969790256114, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: R_Arm
+    m_Hash: 1221432612
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 4122355675141485599, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: 8848959288461036370, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -3423955517167787522, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 3103620981218088120, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: -7661794771710663392, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: -831932286397694869, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: 6593764828814571705, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: -852006246898261950, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: -1792475219144438926, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: -5841223180352242354, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: R_Hand
+    m_Hash: -321690904
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: -8611701037696862000, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: 132766974624592765, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -621027197400564749, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 4071565872287016211, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 8343516158631565043, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 8996340848899329533, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -7649349786043264929, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 6580622959013943636, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: -7219355824190259154, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 1950127376001709188, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: R_Leg
+    m_Hash: -1522308097
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 197902764090734121, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -5181296035725766168, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: -343052459747957754, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: 5139185697199267909, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: -542812666077725629, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 372080663342625678, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: 6650936585279372762, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 5555509609601483848, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 965307426496873479, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 8102980466252703895, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
+  - m_Name: R_Shoe
+    m_Hash: 168200238
+    m_CategoryList:
+    - m_Name: man1
+      m_Hash: 196941766
+      m_Sprite: {fileID: 7699269617586721048, guid: 2ef9696c261ee11458169f7c46fd0c00,
+        type: 3}
+    - m_Name: man2
+      m_Hash: -1833679236
+      m_Sprite: {fileID: -8169665731166670575, guid: 2971d83dd5471cd44a43ff247581ee9b,
+        type: 3}
+    - m_Name: man3
+      m_Hash: -441223446
+      m_Sprite: {fileID: 7243521584373880770, guid: 1372a0e35dba95840811e90240389508,
+        type: 3}
+    - m_Name: oldman1
+      m_Hash: -638634748
+      m_Sprite: {fileID: -4381642161845148311, guid: cd44eb1c616b6204b85a6d3cec887d9d,
+        type: 3}
+    - m_Name: oldman2
+      m_Hash: 1088840894
+      m_Sprite: {fileID: 540764450479179802, guid: b72a2ba423420fd48bb3b46f92238ffe,
+        type: 3}
+    - m_Name: woman1
+      m_Hash: -1770081124
+      m_Sprite: {fileID: 5270397637724625980, guid: d6fdb87a5e10c6a47acbfb41973f13b5,
+        type: 3}
+    - m_Name: woman2
+      m_Hash: 259515686
+      m_Sprite: {fileID: -1699161534657141614, guid: d657d2fceb3473746b35ee5db3854d35,
+        type: 3}
+    - m_Name: woman3
+      m_Hash: 2020660656
+      m_Sprite: {fileID: 2256842736162012478, guid: b462333068aabae43a798375373872f3,
+        type: 3}
+    - m_Name: oldwoman1
+      m_Hash: -1160604954
+      m_Sprite: {fileID: 5849542753929276887, guid: 5671a3dcb2413cc45ac48610fa72c7c0,
+        type: 3}
+    - m_Name: oldwoman2
+      m_Hash: 601604956
+      m_Sprite: {fileID: 196492571741974777, guid: ad8e7da86c1573243969b0393f6e6d63,
+        type: 3}
